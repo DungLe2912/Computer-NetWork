@@ -1,0 +1,2 @@
+Create a FTP_Client use Winsock or CSock. Server is Filezila.
+Don't use library supported FTP Protocol.
